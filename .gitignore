@@ -1,0 +1,14 @@
+# Visual Studio build output and user settings
+Debug/
+Release/
+.vs/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.ncb
+*.sdf
+*.suo
+*.user
+*.log
+UpgradeLog*.htm
